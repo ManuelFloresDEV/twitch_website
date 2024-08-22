@@ -65,7 +65,7 @@ const games = [
 
 function SectionMain() {
   return (
-    <div className="mx-9">
+    <div className="mx-9 ">
       <div className="pb-6">
         <span className="font-bold text-2xl pr-5 hover:text-fuchsia-300">
           Categories

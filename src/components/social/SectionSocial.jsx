@@ -87,7 +87,7 @@ const socialRecommended = [
 
 function SectionSocial() {
   return (
-    <aside className="fixed top-[40px] lg:w-[15rem] w-[100px]  h-screen bg-zinc-800 p-2 ">
+    <aside className="fixed top-[40px] lg:w-[15rem] w-[44px]  h-screen bg-zinc-800 p-2 ">
       <div className="lg:flex hidden   ">
         <p className="text-lg font-semibold py-1">For You</p>
         <span className="ms-auto">

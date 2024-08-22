@@ -9,7 +9,7 @@ function App() {
       <NavBar />
       <div className="flex">
         <SectionSocial />
-        <div className="lg:ms-56">
+        <div className="lg:ms-56 ms-10">
           <BrowserNav />
           <SectionMain />
         </div>
